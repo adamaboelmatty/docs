@@ -5,7 +5,15 @@
   "colors": {
     "primary": "#6B46C1",
     "light": "#9F7AEA",
-    "dark": "#553C9A"
+    "dark": "#553C9A",
+    "background": {
+      "dark": "#090014",
+      "light": "#ffffff"
+    },
+    "navbar": {
+      "background": "#ffffff",
+      "float": false
+    }
   },
   "favicon": "/favicon.svg",
   "navigation": [
@@ -37,7 +45,8 @@
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://viralvisions.live/dashboard"
+    "url": "https://viralvisions.live/dashboard",
+    "type": "primary"
   },
   "anchors": [
     {
