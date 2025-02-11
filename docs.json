@@ -22,7 +22,7 @@
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Tips & Tricks",
             "pages": [
               "essentials/markdown",
               "essentials/code",
@@ -87,13 +87,13 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:support@viralvisions.com"
+        "href": "mailto:support@viralvisions.live"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://dashboard.viralvisions.com"
+      "href": "https://viralvisions.live/dashboard"
     }
   },
   "footer": {
