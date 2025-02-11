@@ -62,9 +62,7 @@
   "topbarCtaButton": {
     "name": "App",
     "url": "https://viralvisions.live/dashboard",
-    "type": "link",
-    "backgroundColor": "#6B46C1",
-    "color": "#ffffff"
+    "type": "primary"
   },
   "anchors": [
     {
