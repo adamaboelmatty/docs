@@ -16,7 +16,15 @@
     "default": "light"
   },
   "backgroundImage": "#ffffff",
-  "topbarStyle": "normal",
+  "topbarStyle": "floating",
+  "topbarLinkConfig": {
+    "isExternal": true,
+    "type": "link"
+  },
+  "navbar": {
+    "isSticky": true,
+    "maxWidth": "full"
+  },
   "navigation": [
     {
       "group": "Get Started",
