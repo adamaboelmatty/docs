@@ -9,13 +9,14 @@
     "background": {
       "dark": "#090014",
       "light": "#ffffff"
-    },
-    "navbar": {
-      "background": "#ffffff",
-      "float": false
     }
   },
   "favicon": "/favicon.svg",
+  "modeToggle": {
+    "default": "light"
+  },
+  "backgroundImage": "#ffffff",
+  "topbarStyle": "normal",
   "navigation": [
     {
       "group": "Get Started",
@@ -46,7 +47,7 @@
   "topbarCtaButton": {
     "name": "Dashboard",
     "url": "https://viralvisions.live/dashboard",
-    "type": "primary"
+    "type": "link"
   },
   "anchors": [
     {
