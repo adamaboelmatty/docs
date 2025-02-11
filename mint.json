@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "venus",
   "name": "ViralVisions",
   "colors": {
     "primary": "#6B46C1",
@@ -8,100 +8,77 @@
     "dark": "#553C9A"
   },
   "favicon": "/favicon.svg",
-  "navigation": {
-    "tabs": [
-      {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "Get Started",
-            "pages": [
-              "introduction",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Tips & Tricks",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API Reference",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete"
-            ]
-          }
-        ]
-      }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "/",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Discord",
-          "href": "https://discord.gg/s2kKaYmY",
-          "icon": "discord"
-        },
-        {
-          "anchor": "Make a Suggestion",
-          "href": "https://viralvisions.featurebase.app",
-          "icon": "lightbulb"
-        },
-        {
-          "anchor": "Tutorials",
-          "href": "https://www.youtube.com/@viralvisionsagency",
-          "icon": "youtube"
-        }
+  "navigation": [
+    {
+      "group": "Get Started",
+      "pages": [
+        "introduction",
+        "quickstart",
+        "development"
+      ]
+    },
+    {
+      "group": "Tips & Tricks",
+      "pages": [
+        "essentials/markdown",
+        "essentials/code",
+        "essentials/images",
+        "essentials/settings",
+        "essentials/navigation",
+        "essentials/reusable-snippets"
+      ]
+    },
+    {
+      "group": "API Documentation",
+      "pages": [
+        "api-reference/introduction"
+      ]
+    },
+    {
+      "group": "Endpoint Examples",
+      "pages": [
+        "api-reference/endpoint/get",
+        "api-reference/endpoint/create",
+        "api-reference/endpoint/delete"
       ]
     }
-  },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:support@viralvisions.live"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://viralvisions.live/dashboard"
+  ],
+  "topbarLinks": [
+    {
+      "name": "Support",
+      "url": "mailto:support@viralvisions.live"
     }
+  ],
+  "topbarCtaButton": {
+    "name": "Dashboard",
+    "url": "https://viralvisions.live/dashboard"
   },
-  "footer": {
-    "socials": {
-      "instagram": "https://www.instagram.com/viralvisionslive",
-      "youtube": "https://www.youtube.com/@viralvisionsagency",
-      "linkedin": "https://www.linkedin.com/company/viralvisions",
-      "discord": "https://discord.gg/s2kKaYmY"
+  "anchors": [
+    {
+      "name": "Documentation",
+      "icon": "book-open-cover",
+      "url": "/"
+    },
+    {
+      "name": "Discord",
+      "icon": "discord",
+      "url": "https://discord.gg/s2kKaYmY"
+    },
+    {
+      "name": "Make a Suggestion",
+      "icon": "lightbulb",
+      "url": "https://viralvisions.featurebase.app"
+    },
+    {
+      "name": "Tutorials",
+      "icon": "youtube",
+      "url": "https://www.youtube.com/@viralvisionsagency"
     }
+  ],
+  "footerSocials": {
+    "instagram": "https://www.instagram.com/viralvisionslive",
+    "youtube": "https://www.youtube.com/@viralvisionsagency",
+    "linkedin": "https://www.linkedin.com/company/viralvisions",
+    "discord": "https://discord.gg/s2kKaYmY"
   }
 }
