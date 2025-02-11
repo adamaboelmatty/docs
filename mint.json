@@ -16,14 +16,16 @@
     "default": "light"
   },
   "backgroundImage": "#ffffff",
-  "topbarStyle": "floating",
+  "topbarStyle": "solid",
   "topbarLinkConfig": {
     "isExternal": true,
     "type": "link"
   },
   "navbar": {
     "isSticky": true,
-    "maxWidth": "full"
+    "maxWidth": "full",
+    "style": "solid",
+    "background": "#ffffff"
   },
   "navigation": [
     {
