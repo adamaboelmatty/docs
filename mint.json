@@ -86,6 +86,11 @@
       "name": "Tutorials",
       "icon": "youtube",
       "url": "https://www.youtube.com/@viralvisionsagency"
+    },
+    {
+      "name": "Testimonials",
+      "icon": "star",
+      "url": "https://testimonial.to/viralvisions/all"
     }
   ],
   "footerSocials": {
