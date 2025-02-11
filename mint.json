@@ -17,15 +17,18 @@
   },
   "backgroundImage": "#ffffff",
   "topbarStyle": "solid",
-  "topbarLinkConfig": {
-    "isExternal": true,
-    "type": "link"
+  "search": {
+    "prompt": "Search or ask..."
   },
   "navbar": {
     "isSticky": true,
     "maxWidth": "full",
     "style": "solid",
-    "background": "#ffffff"
+    "background": "#ffffff",
+    "logo": {
+      "light": "/logo/light.svg",
+      "dark": "/logo/dark.svg"
+    }
   },
   "navigation": [
     {
@@ -55,7 +58,7 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
+    "name": "App",
     "url": "https://viralvisions.live/dashboard",
     "type": "link"
   },
