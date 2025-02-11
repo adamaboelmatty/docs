@@ -60,9 +60,9 @@
     }
   ],
   "topbarCtaButton": {
-    "text": "App",
+    "name": "App",
     "url": "https://viralvisions.live/dashboard",
-    "type": "link"
+    "type": "github"
   },
   "anchors": [
     {
