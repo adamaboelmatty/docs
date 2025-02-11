@@ -58,18 +58,23 @@
       "anchors": [
         {
           "anchor": "Documentation",
-          "href": "https://viralvisions.com/docs",
+          "href": "/",
           "icon": "book-open-cover"
         },
         {
           "anchor": "Community",
-          "href": "https://viralvisions.com/community",
-          "icon": "slack"
+          "href": "https://discord.gg/s2kKaYmY",
+          "icon": "discord"
         },
         {
-          "anchor": "Blog",
-          "href": "https://viralvisions.com/blog",
-          "icon": "newspaper"
+          "anchor": "Request Feature",
+          "href": "https://viralvisions.featurebase.app",
+          "icon": "lightbulb"
+        },
+        {
+          "anchor": "Tutorials",
+          "href": "https://www.youtube.com/@viralvisionsagency",
+          "icon": "youtube"
         }
       ]
     }
