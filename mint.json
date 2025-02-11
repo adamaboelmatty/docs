@@ -18,7 +18,9 @@
   "backgroundImage": "#ffffff",
   "topbarStyle": "solid",
   "search": {
-    "prompt": "Search or ask..."
+    "prompt": "Search or ask...",
+    "placeholder": "Search or ask...",
+    "backgroundColor": "#F3F4F6"
   },
   "navbar": {
     "isSticky": true,
@@ -60,7 +62,9 @@
   "topbarCtaButton": {
     "name": "App",
     "url": "https://viralvisions.live/dashboard",
-    "type": "link"
+    "type": "link",
+    "backgroundColor": "#6B46C1",
+    "color": "#ffffff"
   },
   "anchors": [
     {
