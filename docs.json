@@ -62,12 +62,12 @@
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
+          "anchor": "Discord",
           "href": "https://discord.gg/s2kKaYmY",
           "icon": "discord"
         },
         {
-          "anchor": "Request Feature",
+          "anchor": "Make a Suggestion",
           "href": "https://viralvisions.featurebase.app",
           "icon": "lightbulb"
         },
@@ -98,9 +98,10 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/viralvisions",
-      "github": "https://github.com/viralvisions",
-      "linkedin": "https://linkedin.com/company/viralvisions"
+      "instagram": "https://www.instagram.com/viralvisionslive",
+      "youtube": "https://www.youtube.com/@viralvisionsagency",
+      "linkedin": "https://www.linkedin.com/company/viralvisions",
+      "discord": "https://discord.gg/s2kKaYmY"
     }
   }
 }
